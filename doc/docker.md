@@ -13,6 +13,9 @@
 10. win:   C:\Users\ronglei\.m2\wrapper\dists
 11. mac:   /Users/leomii/.m2/wrapper/dists
 
+编译推送镜像：
+mvnw clean package docker:build -DskipTests
+
 查看所有容器（包含停止的）
 docker ps -a
 

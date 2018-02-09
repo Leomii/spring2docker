@@ -36,7 +36,7 @@ docker exec -ti {container_id} /bin/bash
 
 
 项目访问地址：(ip 为 docker 宿主机ip，port 为 -p 关联的宿主机ip)
-http://172.17.89.36:8081/spring2doker/
+http://172.17.89.36:8081/spring2docker/
 
 swaager-ui：
-http://172.17.89.36:8081/spring2doker/swagger-ui.html
+http://172.17.89.36:8081/spring2docker/swagger-ui.html

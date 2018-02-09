@@ -1,9 +1,9 @@
 spring:
   application:
-    name: galaxy-bridge
+    name: /spring2docker
  
 server:
-  context-path: /spring2doker
+  context-path: /spring2docker
 
 logging:
   config: classpath:logback.xml

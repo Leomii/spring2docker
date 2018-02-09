@@ -9,9 +9,9 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 /**
  *
- * http://172.17.89.36:8081/spring2doker/
+ * http://172.17.89.36:8081/spring2docker/
  *
- * http://172.17.89.36:8081/spring2doker/swagger-ui.html
+ * http://172.17.89.36:8081/spring2docker/swagger-ui.html
  *
  * */
 public class Application {

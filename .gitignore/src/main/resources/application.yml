@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: galaxy-bridge
- 
-server:
-  context-path: /spring2doker
-
-logging:
-  config: classpath:logback.xml
